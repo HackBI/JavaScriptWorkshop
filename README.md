@@ -24,7 +24,10 @@ Learn JavaScript syntax in the console and use jQuery to change the contents of 
     
 ## Resources for Further Learning
 JavaScript Reference: developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
 jQuery API Documentation: api.jquery.com
+
 CodeAcademy: codecademy.com/learn/introduction-to-javascript – *interactive learning tutorials*
+
 
 If you have any additional questions, find me or contact me on Discord @maxdodson#4372
